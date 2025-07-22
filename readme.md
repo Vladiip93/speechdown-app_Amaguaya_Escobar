@@ -44,7 +44,7 @@ Sigue estos pasos para ejecutar el proyecto en un entorno de desarrollo local.
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/Vladiip93/speechdown-app_Amaguaya_Escobar>
 cd speechdown_project
 ```
 
